@@ -3,7 +3,7 @@
 ## Oi eu sou a Arthur Augusto, estudante de Engenharia de Computação, paixão por fut!
 <div align="center">
   <a href="https://github.com/lilianhteixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilianhteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuraug&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilianhteixeira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
@@ -23,7 +23,7 @@
 <div> 
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> --> 
   <a href="https://instagram.com/lilianhteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lilianhteixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arthura"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lilianhteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 -->
  
  
- <!-- Barra superior e inferior --> 
+  Barra superior e inferior 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lílian+Teixeira;I'm+27+years+old;I'm+from+Brazil;I+graduating+engineering+computing;Be+Welcome!+:%29)](https://git.io/typing-svg) 
@@ -93,9 +93,4 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lilianhteixeira}/count.svg" /></p> 
-<br>
-</div> 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/> 
+<p align="center"><img align="center" 
