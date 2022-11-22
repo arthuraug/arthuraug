@@ -1,21 +1,6 @@
-### Hi there 👋
 
-<!--
-**arthuraug/arthuraug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-## Oi eu sou a Lílian Teixeira, Tech Architecture da XP Investimentos, e apaixonada por Python !
+## Oi eu sou a Arthur Augusto, estudante de Engenharia de Computação, paixão por fut!
 <div align="center">
   <a href="https://github.com/lilianhteixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilianhteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,7 +15,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
- <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+ <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
@@ -50,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <!--
-**lilianhteixeira/lilianhteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arthuraug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -72,7 +57,7 @@ Here are some ideas to get you started:
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lilianhteixeira&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lílian Teixeira github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthuraug&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Augusto github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilianhteixeira&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> 
 </div> 
  
